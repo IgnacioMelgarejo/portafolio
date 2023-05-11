@@ -1,0 +1,51 @@
+{
+    "banner":{
+        "header":"Lenguaje Es",
+        "i":"soy",
+        "developer":"Desarrollador",
+        "selfTaughtEs":"Autodidacta",
+        "studentEs":"Estudiante",
+        "presentation":"¡Hola! Soy un desarrollador full stack argentino, orientado al desarrollo web y estudiante de la carrera Tec. Universitaria en programacion. Entusiasta por las nuevas tecnologías y el conocimiento.",
+        "contactme":"Contáctame",
+        "resume":"Descargar CV"
+    },
+    "about":{
+        "about":"Sobre mi",
+        "title":"Estudiante de programación y full stack web certificado",
+        "content":"Soy un profesional con actitud positiva y motivado, siempre dispuesto a aprender y mejorar en mi trabajo. Me considero autodidacta, dedicado con pasión y tenacidad a cada proyecto en el que me involucro, lo que me permite cumplir objetivos de calidad y tiempos de entrega.",
+        "hs":"hs de estudio",
+        "inH":"en henry",
+        "inU":"en la universidad",
+        "projects":"Proyectos",
+        "worked":"Trabajados",
+        "m":"Mi portafolio"
+    },
+    "service":{
+        "back":"Back-End",
+        "backD":"Trabajo en la creación y mantenimiento, desde el diseño de la arquitectura hasta la implementación de lógica de negocio, bases de datos y la integración de servicios externos a través de APIs.",
+        "front":"Front-End",
+        "frontD":"Diseño y desarrollo de componentes y aplicaciones web escalables, integrando frameworks y servicios web. Implementación de buenas prácticas de rendimiento y optimización",
+        "scrum":"Metodología Scrum",
+        "scrumD":"Trabajo en equipos multidisciplinares, participando en el diseño de sprints, definición de historias de usuario, estimación de tareas, seguimiento de avances y feedback.",
+        "iDo":"Lo que hago",
+        "design":"Diseño, desarrollo y mantenimiento de aplicaciones web",
+        "see":"Ver mi trabajo",
+        "skills":"Mis habilidades tecnológicas"
+    },
+
+    "work":{
+        "last":"Mis últimos",
+        "work":"Trabajos",
+        "try":"Trato de trabajar centrándome en la estética de mis páginas y sus mejores utilidades",
+        "all":"Ver todos los proyectos",
+        "dog":"Aplicación con información sobre las razas"
+    },
+    "contact":{
+        "get":"Ponete en contacto",
+         "let":"Trabajemos",
+         "to": "juntos!",
+         "sending":"Enviando...",
+         "send":"Enviar mensaje",
+         "succes":"Mail exitoso"
+    }
+}
